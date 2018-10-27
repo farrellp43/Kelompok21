@@ -1,0 +1,2 @@
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21.Android\obj\Debug\MonoAndroid44\Kelompok21.Android.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21.Android\obj\Debug\MonoAndroid44\res.flag

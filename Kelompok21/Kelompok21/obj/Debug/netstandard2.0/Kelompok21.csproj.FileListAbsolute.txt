@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\bin\Debug\netstandard2.0\Kelompok21.deps.json
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\bin\Debug\netstandard2.0\Kelompok21.dll
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\bin\Debug\netstandard2.0\Kelompok21.pdb
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.dll
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.pdb
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.App.xaml.g.cs
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.LoginPage.xaml.g.cs
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.MainPage.xaml.g.cs
+C:\Users\Asus\source\repos\Kelompok21\Kelompok21\Kelompok21\obj\Debug\netstandard2.0\Kelompok21.SignUpPage.xaml.g.cs
